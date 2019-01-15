@@ -1,0 +1,28 @@
+##Language Fundamentals Part - 01
+01. Identifiers
+name of the class, variablle, methods, level is called Identifiers, which can be used for identification perpose.
+class Test {
+	public static void main(String args[])
+	{
+		int x;
+	}
+}
+
+02. Reserved words
+we can't use reserved words as identifiers
+all predefined class or interface name, we can use as identifiers
+but it's not a good programming practice
+
+Total number of Reserved Words(53)
+
+03. Data Types
+byte, short, int, long, float, double, boolean, char
+
+04. Literals
+05. Arrays
+06. Types of Variables
+07. Var-args methods
+08. Main Methods
+09. command line arguments
+10. Java Coding Standerds
+
