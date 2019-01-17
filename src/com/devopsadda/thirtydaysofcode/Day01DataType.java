@@ -11,9 +11,9 @@ public class Day01DataType {
         /* Declare second integer, double, and String variables. */
         /* Read and save an integer, double, and String to your variables.*/
         // Note: If you have trouble reading the entire String, please go back and review the Tutorial closely.
-        int intValue = scan.nextInt();
-        double doubleValue = scan.nextDouble();
-        scan.next();
+        
+        int intValue = Integer.parseInt(scan.nextLine());
+        double doubleValue = Double.parseDouble(scan.nextLine());
         String stringValue = scan.nextLine();
         
         /* Print the sum of both integer variables on a new line. */
