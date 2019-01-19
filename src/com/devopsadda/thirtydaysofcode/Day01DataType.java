@@ -22,8 +22,8 @@ public class Day01DataType {
         	the 's' variable above should be printed first. */
 		
         System.out.println(i + intValue);
-		System.out.println(d + doubleValue);
-		System.out.println(s + stringValue);
+        System.out.println(d + doubleValue);
+        System.out.println(s + stringValue);
         scan.close();
 }
 }
