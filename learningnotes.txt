@@ -26,3 +26,7 @@ byte, short, int, long, float, double, boolean, char
 09. command line arguments
 10. Java Coding Standerds
 
+git@github.com:tanvir0102/myjavalearning.git
+
+git remote add origin "git@github.com:tanvir0102/myjavalearning.git"
+
